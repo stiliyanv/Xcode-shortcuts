@@ -1,4 +1,4 @@
-# Xcode Keyboard Shortcuts
+# Xcode Shortcuts
 
 The shortcuts that I use all the time while developing with `Xcode`.
 
