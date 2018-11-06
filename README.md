@@ -1,4 +1,9 @@
 # Xcode Keyboard Shortcuts
 
-- `Run`: **⌘(cmd) + R** - Build and then run the current scheme
-- `Build`: **⌘(cmd) + B** - Build (without running)
+The shortcuts that I use all the time while developing with `Xcode`.
+
+| Shortcut | Command |
+|:---:|---|
+| **⌘(cmd) + R** | Build and run  |
+| **⌘(cmd) + B** |  Build (without running) |
+| **⌃(control) + I** |  Re-Indent (code format) |
