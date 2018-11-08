@@ -9,10 +9,9 @@ The shortcuts that I use all the time while developing with `Xcode`.
 | **⌃(ctrl) + I** |  Re-Indent (code format) |
 | **⌘(cmd) + N** |  New File… |
 
-> **⌘** : command / cmd
+### Common Keyboard Symbols
 
-> **⌥** : option / alt
-
-> **⌃** : control / ctrl
-
-> **⇧** : shift
+- **⌘** : command / cmd
+- **⌥** : option / alt
+- **⌃** : control / ctrl
+- **⇧** : shift
