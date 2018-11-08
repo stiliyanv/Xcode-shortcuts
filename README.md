@@ -6,5 +6,5 @@ The shortcuts that I use all the time while developing with `Xcode`.
 |:---:|---|
 | **⌘(cmd) + R** | Build and run  |
 | **⌘(cmd) + B** |  Build (without running) |
-| **⌃(control) + I** |  Re-Indent (code format) |
+| **⌃(ctrl) + I** |  Re-Indent (code format) |
 | **⌘(cmd) + N** |  New File… |
