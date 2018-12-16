@@ -11,6 +11,7 @@ The shortcuts that I use all the time while developing with `Xcode`.
 | **⌥(alt) + Mouse Left Click** |  Quick Help / Documentation |
 | **⌃(ctrl) + ⌘(cmd) + Space** | Emoji & Symbols (not `Xcode` specific, MacOS feature) |
 | **⇧(shift) + ⌘(cmd) + L** | Object Library |
+| **⌘(cmd) + S** | Take Screen Shot of Simulator |
 
 > Note: some of the shortcuts may not be `Xcode` specific and could be used with other software.
 
