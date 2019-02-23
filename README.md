@@ -4,8 +4,9 @@ The shortcuts that I use all the time while developing with `Xcode`.
 
 | Shortcut | Command |
 |:---:|---|
-| **⌘(cmd) + R** | Build and run  |
-| **⌘(cmd) + B** |  Build (without running) |
+| **⌘(cmd) + R** | Build and run the app  |
+| **⌘(cmd) + B** |  Build (without running) the app |
+| **⌘(cmd) + .** |  Stop the app |
 | **⌃(ctrl) + I** |  Re-Indent (code format) |
 | **⌘(cmd) + N** |  New File… |
 | **⌥(alt) + Mouse Left Click** |  Quick Help / Documentation |
