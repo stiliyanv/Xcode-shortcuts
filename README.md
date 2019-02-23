@@ -14,8 +14,6 @@ The shortcuts that I use all the time while developing with `Xcode`.
 | **⇧(shift) + ⌘(cmd) + L** | Object Library |
 | **⌘(cmd) + S** | Take Screen Shot of Simulator |
 
-> Note: some of the shortcuts may not be `Xcode` specific and could be used with other software.
-
 ### Commonly Used Keyboard Keys
 
 - **⌘** : command / cmd
