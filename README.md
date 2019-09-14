@@ -13,6 +13,7 @@ The shortcuts that I use all the time while developing with `Xcode`.
 | **⌃(ctrl) + ⌘(cmd) + Space** | Emoji & Symbols (not `Xcode` specific, MacOS feature) |
 | **⇧(shift) + ⌘(cmd) + L** | Object Library |
 | **⌘(cmd) + S** | Take Screen Shot of Simulator |
+| **⌥(alt) + + ⌘(cmd) + [/]** | Move line up/down |
 
 ### Commonly Used Keyboard Keys
 
