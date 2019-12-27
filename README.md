@@ -14,7 +14,7 @@ The shortcuts that I use all the time while developing with `Xcode`.
 | **⇧(shift) + ⌘(cmd) + L** | Object Library |
 | **⌘(cmd) + S** | Take Screen Shot of Simulator |
 | **⌥(alt) + ⌘(cmd) + [ or ]** | Move line up or down |
-| **⌃(ctrl) + K** | Delete to end of paragraph |
+| **⌃(ctrl) + K** | Delete to end of paragraph (or what is selected) |
 
 ### Commonly Used Keyboard Keys
 
