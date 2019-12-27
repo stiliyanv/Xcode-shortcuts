@@ -2,6 +2,8 @@
 
 The shortcuts that I use all the time while developing with `Xcode`.
 
+> Note that some of the shortcuts are custom. You can configure them via **Xcode -> Preferences... -> Key Bindings**.
+
 | Shortcut | Command |
 |:---:|---|
 | **⌘(cmd) + R** | Build and run the app  |
@@ -15,6 +17,7 @@ The shortcuts that I use all the time while developing with `Xcode`.
 | **⌘(cmd) + S** | Take Screen Shot of Simulator |
 | **⌥(alt) + ⌘(cmd) + [ or ]** | Move line up or down |
 | **⌃(ctrl) + K** | Delete to end of paragraph (or what is selected) |
+| **⌘(cmd) + D** | Delete line (custom) |
 
 ### Commonly Used Keyboard Keys
 
